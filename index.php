@@ -1,4 +1,4 @@
 <?php
 # phpinfo();
-echo "Welcome to Openshift _edited";
+echo "Welcome to Openshift _edited++";
 ?>
